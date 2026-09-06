@@ -1,4 +1,4 @@
-# Darwin Clay O.
+# Okot Darwin Clay
 
 **Founder & Lead Architect · Systems Engineering · Reverse Engineering · Deterministic Infrastructure**
 
