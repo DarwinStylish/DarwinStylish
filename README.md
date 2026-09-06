@@ -49,7 +49,7 @@ Areas I work in:
 
 ## Research & Development
 
-I am particularly interested in engineering systems that connect research to deployable infrastructure—especially deterministic safety mechanisms, firmware analysis, resilient computing, and computational pharmacology.
+I am particularly interested in engineering systems that connect research to deployable infrastructure; especially deterministic safety mechanisms, firmware analysis, resilient computing, and computational pharmacology.
 
 ---
 
