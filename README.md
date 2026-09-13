@@ -8,7 +8,7 @@ My work tends to focus on systems where **determinism, bounded behavior, memory 
 
 ## Current Focus
 
-* Aerospace and embedded firmware reverse engineering
+* Embedded firmware reverse engineering
 * Deterministic and safety-critical software architecture
 * Cyber-physical systems and runtime assurance
 * Low-latency / zero-allocation systems
@@ -25,17 +25,6 @@ High-performance execution infrastructure for Solana, implemented around low-ove
 
 Terminal-first cyber operations and security simulation environment focused on reproducible scenarios, telemetry, blue-team runtime behavior, replay, and after-action analysis.
 
-### AeroState
-
-Aerospace dynamics and control simulation platform for aircraft motion, numerical integration, control systems, safety monitoring, and engineering analysis.
-
-### Hyperliquid SBE Core
-
-Zero-copy Simple Binary Encoding parser for high-performance market-data processing.
-
-### Monad EVM Gateway
-
-Low-level EVM execution-event adapter using fixed-point arithmetic and allocation-conscious data processing.
 
 ## Engineering
 
