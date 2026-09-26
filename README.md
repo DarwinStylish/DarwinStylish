@@ -1,45 +1,29 @@
 # Okot Darwin Clay
 
-**Founder & Lead Architect · Systems Engineering · Reverse Engineering · Deterministic Infrastructure**
+I work on **low-level systems**, with interests in **formal methods, control theory, game theory, and reverse engineering**.
 
-I build low-level and safety-oriented software across reverse engineering, cyber-physical systems, high-performance infrastructure, aerospace software, and scientific computing.
+I am interested in understanding how systems behave, establishing their properties, and building them to remain correct under faults, uncertainty, and adversarial conditions.
 
-My work tends to focus on systems where **determinism, bounded behavior, memory discipline, observability, and correctness** matter more than framework velocity.
+## Areas
 
-## Current Focus
+- Systems programming
+- Operating systems and firmware
+- Formal verification
+- Control and dynamical systems
+- Game and decision theory
+- Reverse engineering
 
-* Embedded firmware reverse engineering
-* Deterministic and safety-critical software architecture
-* Cyber-physical systems and runtime assurance
-* Low-latency / zero-allocation systems
-* Scientific software and computational pharmacology
-* Game systems, simulation, physics, and anti-cheat infrastructure
+## Tools
 
-## Selected Work
+**Languages:** C · Rust · Assembly · C++ · Python
 
-### Solana TPU Client
+**Systems:** Linux · QEMU · GDB · LLVM/GCC · SMT tooling
 
-High-performance execution infrastructure for Solana, implemented around low-overhead C interfaces and deterministic hot-path behavior.
+## Applications
 
-### FortZero
+I apply these methods across **cyber-physical systems, games, scientific computing, computational pharmacology, autonomous systems, and interactive systems**.
 
-Terminal-first cyber operations and security simulation environment focused on reproducible scenarios, telemetry, blue-team runtime behavior, replay, and after-action analysis.
+## Open Source
 
-
-## Engineering
-
-Primary languages:
-
-`C` · `C++` · `Rust` · `Python` · `Assembly`
-
-Areas I work in:
-
-`Reverse Engineering` · `Linux Internals` · `Embedded Systems` · `CPS` · `Simulation` · `Networking` · `High-Performance Systems` · `Scientific Computing`
-
-## Research & Development
-
-I am particularly interested in engineering systems that connect research to deployable infrastructure; especially deterministic safety mechanisms, firmware analysis, resilient computing, and computational pharmacology.
-
----
-
-**Website:** [darwinstylish.dev](https://darwinstylish.dev)
+> Contribute upstream. Maintain what I depend on.  
+> Teach what I learn. Leave the stack healthier than I found it.
