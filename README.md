@@ -1,4 +1,4 @@
-# Okot Darwin Clay
+# Okot, Darwin Clay
 
 I work on **low-level systems**, with interests in **formal methods, control theory, game theory, and reverse engineering**.
 
